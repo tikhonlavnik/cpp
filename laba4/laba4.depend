@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1635690957 source:d:\cpp\laba4\transport.cpp
+	<iostream>
+	<string>
+
+1635690219 source:d:\cpp\laba4\car.cpp
+	<iostream>
+	<string>
+	"Transport.cpp"
+
+1635690957 d:\cpp\laba4\transport.cpp
+	<iostream>
+	<string>
+
+1635940682 source:d:\cpp\laba4\main.cpp
+	<iostream>
+	<string>
+	"Transport.h"
+	"Airplane.h"
+	"Car.h"
+
+1635940265 d:\cpp\laba4\include\transport.h
+	<iostream>
+	<string>
+
+1635940303 source:d:\cpp\laba4\src\transport.cpp
+	"Transport.h"
+
+1635941097 d:\cpp\laba4\include\airplane.h
+	"Transport.h"
+
+1635770293 source:d:\cpp\laba4\src\airplane.cpp
+	"Airplane.h"
+	<string>
+
+1635808972 source:d:\cpp\laba4\src\car.cpp
+	"Car.h"
+	<string>
+
+1635941108 d:\cpp\laba4\include\car.h
+	"Transport.h"
+	<iostream>
+	<string>
+
